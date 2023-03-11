@@ -49,7 +49,7 @@ bio = """
     222
     333
     на выходе будет PDF файл
-    автор: pekanka
+    автор: @pekanka11
 """
 
 @bot.message_handler(commands=['start'])
