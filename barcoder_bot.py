@@ -40,7 +40,7 @@ def create_pdf(bar_str):
 
 
 
-bot = telebot.TeleBot('5913721854:AAGvFs3iL_rM6i0_9y7lGP3HwEUQKdnQv0Y')
+bot = telebot.TeleBot('')
 
 bio = """
     Это мой телеграм бот для создания штрихкодов
